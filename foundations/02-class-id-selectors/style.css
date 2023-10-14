@@ -1,0 +1,19 @@
+.basic {
+    background-color: #ff00ff;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#firstId {
+    color: #00f;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#secondId {
+    background-color: #0f0;
+    font-size: 24px;
+    font-weight: bold;
+}
